@@ -1,0 +1,22 @@
+E:\01 - Study\6th Semester\Software Construction and Development\Extra Work For Game\From GitHub\Breakout-Game-master\Breakout Game\Breakout Game 2\Breakout Game 2\bin\Debug\Breakout Game 2.exe.config
+E:\01 - Study\6th Semester\Software Construction and Development\Extra Work For Game\From GitHub\Breakout-Game-master\Breakout Game\Breakout Game 2\Breakout Game 2\bin\Debug\Breakout Game 2.exe
+E:\01 - Study\6th Semester\Software Construction and Development\Extra Work For Game\From GitHub\Breakout-Game-master\Breakout Game\Breakout Game 2\Breakout Game 2\bin\Debug\Breakout Game 2.pdb
+E:\01 - Study\6th Semester\Software Construction and Development\Extra Work For Game\From GitHub\Breakout-Game-master\Breakout Game\Breakout Game 2\Breakout Game 2\obj\Debug\Breakout Game 2.csprojResolveAssemblyReference.cache
+E:\01 - Study\6th Semester\Software Construction and Development\Extra Work For Game\From GitHub\Breakout-Game-master\Breakout Game\Breakout Game 2\Breakout Game 2\obj\Debug\Breakout_Game_2.Form1.resources
+E:\01 - Study\6th Semester\Software Construction and Development\Extra Work For Game\From GitHub\Breakout-Game-master\Breakout Game\Breakout Game 2\Breakout Game 2\obj\Debug\Breakout_Game_2.Properties.Resources.resources
+E:\01 - Study\6th Semester\Software Construction and Development\Extra Work For Game\From GitHub\Breakout-Game-master\Breakout Game\Breakout Game 2\Breakout Game 2\obj\Debug\Breakout Game 2.csproj.GenerateResource.Cache
+E:\01 - Study\6th Semester\Software Construction and Development\Extra Work For Game\From GitHub\Breakout-Game-master\Breakout Game\Breakout Game 2\Breakout Game 2\obj\Debug\Breakout Game 2.exe
+E:\01 - Study\6th Semester\Software Construction and Development\Extra Work For Game\From GitHub\Breakout-Game-master\Breakout Game\Breakout Game 2\Breakout Game 2\obj\Debug\Breakout Game 2.pdb
+E:\01 - Study\6th Semester\Software Construction and Development\Extra Work For Game\From GitHub\Breakout-Game-master\Breakout Game\Breakout Game 2\Breakout Game 2\obj\Debug\Breakout_Game_2.splashScreen.resources
+C:\Users\Ahmad\Desktop\SCD\Assignment # 3\Breakout Game 2\bin\Debug\Breakout Game 2.exe.config
+C:\Users\Ahmad\Desktop\SCD\Assignment # 3\Breakout Game 2\bin\Debug\Breakout Game 2.exe
+C:\Users\Ahmad\Desktop\SCD\Assignment # 3\Breakout Game 2\bin\Debug\Breakout Game 2.pdb
+C:\Users\Ahmad\Desktop\SCD\Assignment # 3\Breakout Game 2\obj\Debug\Breakout Game 2.csproj.AssemblyReference.cache
+C:\Users\Ahmad\Desktop\SCD\Assignment # 3\Breakout Game 2\obj\Debug\Breakout Game 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahmad\Desktop\SCD\Assignment # 3\Breakout Game 2\obj\Debug\Breakout_Game_2.Form1.resources
+C:\Users\Ahmad\Desktop\SCD\Assignment # 3\Breakout Game 2\obj\Debug\Breakout_Game_2.Properties.Resources.resources
+C:\Users\Ahmad\Desktop\SCD\Assignment # 3\Breakout Game 2\obj\Debug\Breakout_Game_2.splashScreen.resources
+C:\Users\Ahmad\Desktop\SCD\Assignment # 3\Breakout Game 2\obj\Debug\Breakout Game 2.csproj.GenerateResource.cache
+C:\Users\Ahmad\Desktop\SCD\Assignment # 3\Breakout Game 2\obj\Debug\Breakout Game 2.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\SCD\Assignment # 3\Breakout Game 2\obj\Debug\Breakout Game 2.exe
+C:\Users\Ahmad\Desktop\SCD\Assignment # 3\Breakout Game 2\obj\Debug\Breakout Game 2.pdb
